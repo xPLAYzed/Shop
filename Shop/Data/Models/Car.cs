@@ -21,7 +21,7 @@ namespace Shop.Data.Models
 
         public bool isFavourite { set; get; }
 
-        public int available { set; get; }
+        public bool available { set; get; }
 
         public int categoryID { set; get; }
 
