@@ -3934,11 +3934,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vladk_bfzdaii\\OneDrive\\Рабочий стол\\shop\\Shop\\Shop.csproj",
+      "projectUniqueName": "C:\\Users\\vladk_bfzdaii\\source\\repos\\Shop\\Shop\\Shop\\Shop.csproj",
       "projectName": "Shop",
-      "projectPath": "C:\\Users\\vladk_bfzdaii\\OneDrive\\Рабочий стол\\shop\\Shop\\Shop.csproj",
+      "projectPath": "C:\\Users\\vladk_bfzdaii\\source\\repos\\Shop\\Shop\\Shop\\Shop.csproj",
       "packagesPath": "C:\\Users\\vladk_bfzdaii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vladk_bfzdaii\\OneDrive\\Рабочий стол\\shop\\Shop\\obj\\",
+      "outputPath": "C:\\Users\\vladk_bfzdaii\\source\\repos\\Shop\\Shop\\Shop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vladk_bfzdaii\\AppData\\Roaming\\NuGet\\NuGet.Config",
