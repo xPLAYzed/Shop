@@ -23,7 +23,7 @@ namespace Shop.Controllers
         {
             ViewBag.Title = "Страница с автомобилями";
             CarsListViewModel obj = new CarsListViewModel();
-            obj.allcars = _allCars.Cars;
+            obj.allCars = _allCars.Cars;
             obj.currCategory = "Автомобили";
 
             return View(obj);

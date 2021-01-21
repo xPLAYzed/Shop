@@ -11,21 +11,25 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Shop
 {
     public class Startup
-
+    { 
+    
 
         private IConfigurationRoot _confSting;
     public Startup(IHostEnvironment hostENV) {
         _confSting = new ConfigurationBuilder().SetBasePath(hostENV.ContentRootPath).AddJsonFile("dbsettings.json").Build();
-    }
-    {
+        }
+        
         // This method gets called by the runtime. Use this method to add services to the container.
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services) {
-        services.AddDbContext<AppDBContent>(options => options.UseSqlServer(_confSting.GetConnectionString("DefaultConnection")));
+            services.AddMvc(option => option.EnableEndpointRouting = false);
+            services.AddDbContext<AppDBContent>(options => options.UseMySQL(_confSting.GetConnectionString("DefaultConnection")));
             services.AddTransient<IAllCars, MockCars>();
             services.AddTransient<ICarsCategory, MockCategory>();
             services.AddMvc();
@@ -41,4 +45,4 @@ namespace Shop
             app.UseMvcWithDefaultRoute();
         }
     }
-}
+ }
