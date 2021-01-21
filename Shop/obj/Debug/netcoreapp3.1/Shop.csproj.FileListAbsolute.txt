@@ -241,8 +241,6 @@ C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\K4os.Compre
 C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
 C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
 C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
-C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
 C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
 C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
 C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
@@ -254,9 +252,7 @@ C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\Microsoft.E
 C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
 C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
@@ -363,3 +359,8 @@ C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\obj\Debug\netcoreapp3.1\Shop.RazorT
 C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\obj\Debug\netcoreapp3.1\Shop.Views.pdb
 C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\obj\Debug\netcoreapp3.1\Shop.csproj.CopyComplete
 C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll

@@ -29,7 +29,7 @@ namespace Shop
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services) {
             services.AddMvc(option => option.EnableEndpointRouting = false);
-            services.AddDbContext<AppDBContent>(options => options.UseMySQL(_confSting.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<AppDBContent>(options => options.UseSqlServer(_confSting.GetConnectionString("DefaultConnection")));
             services.AddTransient<IAllCars, CarRepository>();
             services.AddTransient<ICarsCategory, CategoryRepository>();
             services.AddMvc();
