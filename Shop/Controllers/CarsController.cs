@@ -17,5 +17,16 @@ namespace Shop.Controllers
             _allCars = iAllCars;
             _allCategories = iCarsCat;
         }
+
+        public ViewResult List()
+        {
+            var cars = _allCars.Cars;
+            return View(cars);
+
+
+        }
+
+
+
     }
 }
