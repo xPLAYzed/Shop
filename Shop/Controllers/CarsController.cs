@@ -20,8 +20,8 @@ namespace Shop.Controllers
 
         public ViewResult List()
         {
-            var car = _allCars.Cars;
-            return View();
+            var cars = _allCars.Cars;
+            return View(cars);
 
 
         }
