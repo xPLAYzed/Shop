@@ -1,16 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Shop",
-    "\\Shop\\bin",
-    "\\Shop\\bin\\Debug\\netcoreapp3.1",
-    "\\Shop\\Data",
-    "\\Shop\\Data\\Interfaces",
-    "\\Shop\\Data\\mocks",
-    "\\Shop\\Data\\Models",
-    "\\Shop\\Views",
-    "\\Shop\\Views\\Cars"
+    ""
   ],
-  "SelectedNode": "\\Shop.sln",
   "PreviewInSolutionExplorer": false
 }
