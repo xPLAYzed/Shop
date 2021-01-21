@@ -13,7 +13,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc;
-
+using Shop.Data.Repository;
 namespace Shop
 {
     public class Startup
@@ -30,8 +30,8 @@ namespace Shop
         public void ConfigureServices(IServiceCollection services) {
             services.AddMvc(option => option.EnableEndpointRouting = false);
             services.AddDbContext<AppDBContent>(options => options.UseMySQL(_confSting.GetConnectionString("DefaultConnection")));
-            services.AddTransient<IAllCars, MockCars>();
-            services.AddTransient<ICarsCategory, MockCategory>();
+            services.AddTransient<IAllCars, CarRepository>();
+            services.AddTransient<ICarsCategory, CategoryRepository>();
             services.AddMvc();
         }
 
