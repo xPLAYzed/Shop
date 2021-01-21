@@ -9,7 +9,7 @@ using Shop.ViewModels;
 namespace Shop.Controllers
 {
 	public class HomeController : Controller {
-	{
+
 		private IAllCars _carRep;
 
 		public HomeController(IAllCars carRep)
