@@ -210,3 +210,6 @@ C:\Users\Decvdence\Source\Repos\xPLAYzed\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.
 C:\Users\Decvdence\Source\Repos\xPLAYzed\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.dll
 C:\Users\Decvdence\Source\Repos\xPLAYzed\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
 C:\Users\Decvdence\Source\Repos\xPLAYzed\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
+C:\Users\Decvdence\Source\Repos\xPLAYzed\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Decvdence\Source\Repos\xPLAYzed\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Decvdence\Source\Repos\xPLAYzed\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
