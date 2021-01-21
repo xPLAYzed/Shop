@@ -94,3 +94,13 @@ C:\Users\vladk_bfzdaii\source\repos\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\ru\Mi
 C:\Users\vladk_bfzdaii\source\repos\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\vladk_bfzdaii\source\repos\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\vladk_bfzdaii\source\repos\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\vladk_bfzdaii\source\repos\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.dll
+C:\Users\vladk_bfzdaii\source\repos\Shop\Shop\Shop\bin\Debug\netcoreapp3.1\Shop.Views.pdb
+C:\Users\vladk_bfzdaii\source\repos\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cache
+C:\Users\vladk_bfzdaii\source\repos\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorAssemblyInfo.cs
+C:\Users\vladk_bfzdaii\source\repos\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.input.cache
+C:\Users\vladk_bfzdaii\source\repos\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.TagHelpers.output.cache
+C:\Users\vladk_bfzdaii\source\repos\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorCoreGenerate.cache
+C:\Users\vladk_bfzdaii\source\repos\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Cars\List.cshtml.g.cs
+C:\Users\vladk_bfzdaii\source\repos\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.RazorTargetAssemblyInfo.cs
+C:\Users\vladk_bfzdaii\source\repos\Shop\Shop\Shop\obj\Debug\netcoreapp3.1\Shop.Views.pdb
