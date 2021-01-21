@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Decvdence\\Source\\Repos\\xPLAYzed\\Shop\\Shop\\Shop.csproj": {}
+    "C:\\Users\\vladk_bfzdaii\\source\\repos\\Kur\\Shop\\Shop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Decvdence\\Source\\Repos\\xPLAYzed\\Shop\\Shop\\Shop.csproj": {
+    "C:\\Users\\vladk_bfzdaii\\source\\repos\\Kur\\Shop\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Decvdence\\Source\\Repos\\xPLAYzed\\Shop\\Shop\\Shop.csproj",
+        "projectUniqueName": "C:\\Users\\vladk_bfzdaii\\source\\repos\\Kur\\Shop\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "C:\\Users\\Decvdence\\Source\\Repos\\xPLAYzed\\Shop\\Shop\\Shop.csproj",
-        "packagesPath": "C:\\Users\\Decvdence\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Decvdence\\Source\\Repos\\xPLAYzed\\Shop\\Shop\\obj\\",
+        "projectPath": "C:\\Users\\vladk_bfzdaii\\source\\repos\\Kur\\Shop\\Shop.csproj",
+        "packagesPath": "C:\\Users\\vladk_bfzdaii\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vladk_bfzdaii\\source\\repos\\Kur\\Shop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Decvdence\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vladk_bfzdaii\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,10 +44,6 @@
               "target": "Package",
               "version": "[6.4.4, )"
             },
-            "JSON": {
-              "target": "Package",
-              "version": "[1.0.1, )"
-            },
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",
               "version": "[2.2.5, )"
@@ -56,13 +52,23 @@
               "target": "Package",
               "version": "[2.2.0, )"
             },
-            "Microsoft.EntityFrameworkCore": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.2, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.4, )"
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.22, )"
             }
           },
           "imports": [
