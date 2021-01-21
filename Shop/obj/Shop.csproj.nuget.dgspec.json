@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vladk_bfzdaii\\source\\repos\\Новая папка\\Shop\\Shop\\Shop.csproj": {}
+    "C:\\Users\\vladk_bfzdaii\\source\\repos\\Kur\\Shop\\Shop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vladk_bfzdaii\\source\\repos\\Новая папка\\Shop\\Shop\\Shop.csproj": {
+    "C:\\Users\\vladk_bfzdaii\\source\\repos\\Kur\\Shop\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vladk_bfzdaii\\source\\repos\\Новая папка\\Shop\\Shop\\Shop.csproj",
+        "projectUniqueName": "C:\\Users\\vladk_bfzdaii\\source\\repos\\Kur\\Shop\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "C:\\Users\\vladk_bfzdaii\\source\\repos\\Новая папка\\Shop\\Shop\\Shop.csproj",
+        "projectPath": "C:\\Users\\vladk_bfzdaii\\source\\repos\\Kur\\Shop\\Shop.csproj",
         "packagesPath": "C:\\Users\\vladk_bfzdaii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vladk_bfzdaii\\source\\repos\\Новая папка\\Shop\\Shop\\obj\\",
+        "outputPath": "C:\\Users\\vladk_bfzdaii\\source\\repos\\Kur\\Shop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vladk_bfzdaii\\AppData\\Roaming\\NuGet\\NuGet.Config",
