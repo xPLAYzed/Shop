@@ -11,5 +11,11 @@ namespace Shop.Controllers
     {
         private readonly IAllCars _allCars;
         private readonly ICarsCategory _allCategories;
+
+        public CarsController(IAllCars iAllCars, ICarsCategory iCarsCat)
+        {
+            _allCars = iAllCars;
+            _allCategories = iCarsCat;
+        }
     }
 }
