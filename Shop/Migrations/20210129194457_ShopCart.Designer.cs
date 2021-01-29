@@ -10,7 +10,7 @@ using Shop.Data;
 namespace Shop.Migrations
 {
     [DbContext(typeof(AppDBContent))]
-    [Migration("20210121165141_ShopCart")]
+    [Migration("20210129194457_ShopCart")]
     partial class ShopCart
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -97,7 +97,7 @@ namespace Shop.Migrations
 
                     b.HasIndex("carid");
 
-                    b.ToTable("ShopCarItem");
+                    b.ToTable("ShopCartItem");
                 });
 
             modelBuilder.Entity("Shop.Data.Models.Car", b =>

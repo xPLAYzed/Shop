@@ -10604,11 +10604,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\kur\\Shop\\Shop.csproj",
+      "projectUniqueName": "E:\\kurr\\Shop\\Shop.csproj",
       "projectName": "Shop",
-      "projectPath": "E:\\kur\\Shop\\Shop.csproj",
+      "projectPath": "E:\\kurr\\Shop\\Shop.csproj",
       "packagesPath": "C:\\Users\\vladk_bfzdaii\\.nuget\\packages\\",
-      "outputPath": "E:\\kur\\Shop\\obj\\",
+      "outputPath": "E:\\kurr\\Shop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vladk_bfzdaii\\AppData\\Roaming\\NuGet\\NuGet.Config",

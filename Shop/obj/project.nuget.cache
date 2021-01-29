@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IQ+wi2xkk7CeuD5uhfRy2oactb/OtgNnnc/D7yxYvBdaAA7Tm2aFbwcyM7B8iYERllk1KTbfflGx6pD0ehK9Ng==",
+  "dgSpecHash": "Qy8Fa5Nlg9d++pDJwvkUncexfbdgU6Hqp59653hNY+zhZbBBBUG+osbZzKLjcHZ+OHbjlDfhzUshcOdiZemzsQ==",
   "success": true,
-  "projectFilePath": "E:\\kur\\Shop\\Shop.csproj",
+  "projectFilePath": "E:\\kurr\\Shop\\Shop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vladk_bfzdaii\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\vladk_bfzdaii\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",

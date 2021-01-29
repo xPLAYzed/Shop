@@ -95,7 +95,7 @@ namespace Shop.Migrations
 
                     b.HasIndex("carid");
 
-                    b.ToTable("ShopCarItem");
+                    b.ToTable("ShopCartItem");
                 });
 
             modelBuilder.Entity("Shop.Data.Models.Car", b =>

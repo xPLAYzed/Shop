@@ -18,7 +18,7 @@ namespace Shop.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_ShopCarItem", x => x.id);
+                    table.PrimaryKey("PK_ShopCartItem", x => x.id);
                     table.ForeignKey(
                         name: "FK_ShopCartItem_Car_carid",
                         column: x => x.carid,
