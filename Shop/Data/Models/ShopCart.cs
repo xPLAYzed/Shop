@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Shop.Data.Models
@@ -11,7 +12,7 @@ namespace Shop.Data.Models
 	{
 		private readonly AppDBContent appDBContent;
 
-		public CarRepository(AppDBContent appDBContent)
+		public ShopCart(AppDBContent appDBContent)
 		{
 			this.appDBContent = appDBContent;
 		}

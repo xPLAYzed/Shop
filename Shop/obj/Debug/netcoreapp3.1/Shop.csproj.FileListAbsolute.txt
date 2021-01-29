@@ -449,3 +449,7 @@ C:\Users\Decvdence\source\repos\xPLAYzed\Shop\Shop\bin\Debug\netcoreapp3.1\runti
 C:\Users\Decvdence\source\repos\xPLAYzed\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\Decvdence\source\repos\xPLAYzed\Shop\Shop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Decvdence\source\repos\xPLAYzed\Shop\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllCars.cshtml.g.cs
+C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllCars.cshtml.g.cs
+C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
