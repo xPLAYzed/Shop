@@ -10558,19 +10558,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\vladk_bfzdaii\\.nuget\\packages\\": {}
+    "C:\\Users\\Decvdence\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vladk_bfzdaii\\source\\repos\\Kur\\Shop\\Shop.csproj",
+      "projectUniqueName": "C:\\Users\\Decvdence\\source\\repos\\xPLAYzed\\Shop\\Shop\\Shop.csproj",
       "projectName": "Shop",
-      "projectPath": "C:\\Users\\vladk_bfzdaii\\source\\repos\\Kur\\Shop\\Shop.csproj",
-      "packagesPath": "C:\\Users\\vladk_bfzdaii\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vladk_bfzdaii\\source\\repos\\Kur\\Shop\\obj\\",
+      "projectPath": "C:\\Users\\Decvdence\\source\\repos\\xPLAYzed\\Shop\\Shop\\Shop.csproj",
+      "packagesPath": "C:\\Users\\Decvdence\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Decvdence\\source\\repos\\xPLAYzed\\Shop\\Shop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\vladk_bfzdaii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Decvdence\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
