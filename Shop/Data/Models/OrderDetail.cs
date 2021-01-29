@@ -16,9 +16,9 @@ namespace Shop.Data.Models
 
         public uint price { get; set; }
 
-        public string phone { get; set; }
+        public virtual Car car { get; set; }
 
-        public string email { get; set; }
+        public virtual Order order { get; set; }
 
       
 
