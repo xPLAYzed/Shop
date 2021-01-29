@@ -809,3 +809,4 @@ E:\kurr\Shop\obj\Debug\netcoreapp3.1\Shop.dll
 E:\kurr\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
 E:\kurr\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
 E:\kurr\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+E:\kurr\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Complete.cshtml.g.cs
