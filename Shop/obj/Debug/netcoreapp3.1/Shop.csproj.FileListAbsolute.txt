@@ -810,3 +810,8 @@ E:\kurr\Shop\obj\Debug\netcoreapp3.1\Shop.pdb
 E:\kurr\Shop\obj\Debug\netcoreapp3.1\Shop.genruntimeconfig.cache
 E:\kurr\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
 E:\kurr\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Order\Complete.cshtml.g.cs
+E:\kurr\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\kurr\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\kurr\Shop\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\kurr\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\kurr\Shop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll

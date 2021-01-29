@@ -15,13 +15,15 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Mvc;
 using Shop.Data.Repository;
 using Shop.Data.Models;
+using Shop.Data.Account;
+using Microsoft.AspNetCore.Identity;
 
 namespace Shop
 {
     public class Startup
     { 
     
-
+        
         private IConfigurationRoot _confSting;
     public Startup(IHostEnvironment hostENV) {
         _confSting = new ConfigurationBuilder().SetBasePath(hostENV.ContentRootPath).AddJsonFile("dbsettings.json").Build();
@@ -34,7 +36,14 @@ namespace Shop
             services.AddDbContext<AppDBContent>(options => options.UseSqlServer(_confSting.GetConnectionString("DefaultConnection")));
             services.AddTransient<IAllCars, CarRepository>();
             services.AddTransient<IAllOrders, OrdersRepository>();
+           // services.AddTransient<IUsers, UserRepository>();
             services.AddTransient<ICarsCategory, CategoryRepository>();
+               // services.AddDbContextPool<UsersDB>(options => options.UseSqlServer(_confSting.GetConnectionString("UsersDBConnection")));
+                //  services.AddMvc().AddXmlDataContractSerializerFormatters();
+            
+                //   services.AddIdentity<IdentityUser, IdentityRole>()
+                //   .AddEntityFrameworkStores<UsersDB>();
+
 
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
             services.AddScoped(sp => ShopCart.GetCart(sp));
@@ -58,7 +67,28 @@ namespace Shop
             routes.MapRoute(name: "categoryFilter", template: "Car/{action}/{category?}", defaults: new { Contoller = "Car", action = "List" });
             });
 
+      
+       
+           // if (env.IsDevelopment())
+            //    {
+           //        app.UseDeveloperExceptionPage();
+           //    }
+           //    else
+           //     {
+            //        app.UseExceptionHandler("/Error");
+           //       app.UseStatusCodePagesWithReExecute("/Error/{0}");
+            //    }
 
+           //     app.UseStaticFiles();
+            //  app.UseAuthentication();
+           //     app.UseMvc(routes =>
+           //     {
+           //         routes.MapRoute("default", "{controller=Home}/{action=Index}/{id?}");
+            
+         //    }
+           //    );
+
+           
 
             using (var scope = app.ApplicationServices.CreateScope())
             {
