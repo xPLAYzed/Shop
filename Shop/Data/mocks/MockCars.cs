@@ -24,7 +24,7 @@ namespace Shop.Data.mocks
                          shortDesc = "Быстрый электрокар",
                          longDesc = "Красивый, быстрый и очень тихий автомобиль компании Tesla",
                          img = "/img/Tesla.jpg",
-                         price = 45000,
+                         price = 3400000,
                          isFavourite = true,
                          available = true,
                          Category = _categoryCars.AllCategories.First()
