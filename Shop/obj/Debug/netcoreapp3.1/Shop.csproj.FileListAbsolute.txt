@@ -453,3 +453,4 @@ C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\bin\Debug\netcoreapp3.1\Microsoft.E
 C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\obj\Debug\netcoreapp3.1\Razor\Views\Shared\AllCars.cshtml.g.cs
 C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\obj\Debug\netcoreapp3.1\Razor\Views\ShopCart\Index.cshtml.g.cs
+C:\Users\vladk_bfzdaii\source\repos\Kur\Shop\obj\Debug\netcoreapp3.1\Shop.GeneratedMSBuildEditorConfig.editorconfig

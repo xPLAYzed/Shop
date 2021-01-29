@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Decvdence\\source\\repos\\xPLAYzed\\Shop\\Shop\\Shop.csproj": {}
+    "C:\\Users\\vladk_bfzdaii\\source\\repos\\Kur\\Shop\\Shop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Decvdence\\source\\repos\\xPLAYzed\\Shop\\Shop\\Shop.csproj": {
+    "C:\\Users\\vladk_bfzdaii\\source\\repos\\Kur\\Shop\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Decvdence\\source\\repos\\xPLAYzed\\Shop\\Shop\\Shop.csproj",
+        "projectUniqueName": "C:\\Users\\vladk_bfzdaii\\source\\repos\\Kur\\Shop\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "C:\\Users\\Decvdence\\source\\repos\\xPLAYzed\\Shop\\Shop\\Shop.csproj",
-        "packagesPath": "C:\\Users\\Decvdence\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Decvdence\\source\\repos\\xPLAYzed\\Shop\\Shop\\obj\\",
+        "projectPath": "C:\\Users\\vladk_bfzdaii\\source\\repos\\Kur\\Shop\\Shop.csproj",
+        "packagesPath": "C:\\Users\\vladk_bfzdaii\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vladk_bfzdaii\\source\\repos\\Kur\\Shop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Decvdence\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\vladk_bfzdaii\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,6 +59,12 @@
             "Microsoft.AspNetCore.StaticFiles": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.CodeAnalysis.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.3.2, )"
             },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",

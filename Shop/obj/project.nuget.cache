@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "InUudlIqfYxg1k6eg8/nmqeHILIcR+cF6MEWcAXLVnHCtMpHRUn5KtJIqw1egzVN2JcAWKRnFWtaH42rPgiqww==",
+  "dgSpecHash": "pIx8a1Jg5rFMhLLi6v8h7hBVhHusIhrsJMU63SSJyBrvJhvYxC9uuj2KqXW+lv7fDgADP5o53G//tCozsu72Rg==",
   "success": true,
   "projectFilePath": "C:\\Users\\vladk_bfzdaii\\source\\repos\\Kur\\Shop\\Shop.csproj",
   "expectedPackageFiles": [
@@ -36,7 +36,7 @@
     "C:\\Users\\vladk_bfzdaii\\.nuget\\packages\\microsoft.aspnetcore.session\\2.2.0\\microsoft.aspnetcore.session.2.2.0.nupkg.sha512",
     "C:\\Users\\vladk_bfzdaii\\.nuget\\packages\\microsoft.aspnetcore.staticfiles\\2.2.0\\microsoft.aspnetcore.staticfiles.2.2.0.nupkg.sha512",
     "C:\\Users\\vladk_bfzdaii\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
-    "C:\\Users\\vladk_bfzdaii\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\2.9.4\\microsoft.codeanalysis.analyzers.2.9.4.nupkg.sha512",
+    "C:\\Users\\vladk_bfzdaii\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.2\\microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512",
     "C:\\Users\\vladk_bfzdaii\\.nuget\\packages\\microsoft.codeanalysis.common\\3.3.1\\microsoft.codeanalysis.common.3.3.1.nupkg.sha512",
     "C:\\Users\\vladk_bfzdaii\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.3.1\\microsoft.codeanalysis.csharp.3.3.1.nupkg.sha512",
     "C:\\Users\\vladk_bfzdaii\\.nuget\\packages\\microsoft.codeanalysis.csharp.workspaces\\3.3.1\\microsoft.codeanalysis.csharp.workspaces.3.3.1.nupkg.sha512",
