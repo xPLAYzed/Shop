@@ -33,6 +33,7 @@ namespace Shop
             services.AddMvc(option => option.EnableEndpointRouting = false);
             services.AddDbContext<AppDBContent>(options => options.UseSqlServer(_confSting.GetConnectionString("DefaultConnection")));
             services.AddTransient<IAllCars, CarRepository>();
+            services.AddTransient<IAllOrders, OrdersRepository>();
             services.AddTransient<ICarsCategory, CategoryRepository>();
 
             services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();

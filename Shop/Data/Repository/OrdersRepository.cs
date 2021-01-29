@@ -34,7 +34,7 @@ namespace Shop.Data.Repository
                 {
                     CarID = el.car.id,
                     orderID = order.id,
-                    price = el.car.price
+                    price = (uint)el.car.price
                 };
 
                 appDBContent.OrderDetail.Add(orderDetail);
