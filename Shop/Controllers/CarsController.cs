@@ -41,7 +41,7 @@ namespace Shop.Controllers
                     currCategory = "Классические автомобили";
                 }
 
-
+                currCategory = _category;
 
                 }
 

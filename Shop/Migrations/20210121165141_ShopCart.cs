@@ -7,7 +7,7 @@ namespace Shop.Migrations
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "ShopCarItem",
+                name: "ShopCartItem",
                 columns: table => new
                 {
                     id = table.Column<int>(type: "int", nullable: false)
@@ -20,7 +20,7 @@ namespace Shop.Migrations
                 {
                     table.PrimaryKey("PK_ShopCarItem", x => x.id);
                     table.ForeignKey(
-                        name: "FK_ShopCarItem_Car_carid",
+                        name: "FK_ShopCartItem_Car_carid",
                         column: x => x.carid,
                         principalTable: "Car",
                         principalColumn: "id",
@@ -28,15 +28,15 @@ namespace Shop.Migrations
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_ShopCarItem_carid",
-                table: "ShopCarItem",
+                name: "IX_ShopCartItem_carid",
+                table: "ShopCartItem",
                 column: "carid");
         }
 
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "ShopCarItem");
+                name: "ShopCartItem");
         }
     }
 }

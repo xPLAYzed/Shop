@@ -34,7 +34,7 @@ namespace Shop.Data.Models
 		}
 
 		public void AddToCart(Car car) {
-			appDBContent.ShopCarItem.Add(new ShopCartItem
+			appDBContent.ShopCartItem.Add(new ShopCartItem
 			{
 				ShopCartId = ShopCartId,
 				car = car,
@@ -46,7 +46,7 @@ namespace Shop.Data.Models
 
 		public List<ShopCartItem> getShopItems()
 		{
-			return appDBContent.ShopCarItem.Where(c => c.ShopCartId == ShopCartId).Include(s => s.car).ToList();
+			return appDBContent.ShopCartItem.Where(c => c.ShopCartId == ShopCartId).Include(s => s.car).ToList();
 		}
 	}	
 }
