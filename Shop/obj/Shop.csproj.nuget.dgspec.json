@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vladk_bfzdaii\\Desktop\\Shop\\Shop\\Shop.csproj": {}
+    "C:\\Users\\vladk_bfzdaii\\Desktop\\Новая папка\\Shop\\Shop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vladk_bfzdaii\\Desktop\\Shop\\Shop\\Shop.csproj": {
+    "C:\\Users\\vladk_bfzdaii\\Desktop\\Новая папка\\Shop\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vladk_bfzdaii\\Desktop\\Shop\\Shop\\Shop.csproj",
+        "projectUniqueName": "C:\\Users\\vladk_bfzdaii\\Desktop\\Новая папка\\Shop\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "C:\\Users\\vladk_bfzdaii\\Desktop\\Shop\\Shop\\Shop.csproj",
+        "projectPath": "C:\\Users\\vladk_bfzdaii\\Desktop\\Новая папка\\Shop\\Shop.csproj",
         "packagesPath": "C:\\Users\\vladk_bfzdaii\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vladk_bfzdaii\\Desktop\\Shop\\Shop\\obj\\",
+        "outputPath": "C:\\Users\\vladk_bfzdaii\\Desktop\\Новая папка\\Shop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vladk_bfzdaii\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -115,7 +115,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
